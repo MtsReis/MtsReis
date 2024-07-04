@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/Redis-ff0a0a" />
         <img src="https://img.shields.io/badge/Kafka-ff0a0a" />
         <img src="https://img.shields.io/badge/RabbitMQ-ff0a0a" />
+        <img src="https://img.shields.io/badge/Jest-ff0a0a" />
       </td>
     </tr>
   </table>
