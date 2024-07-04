@@ -25,8 +25,6 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Node.js-ff0a0a" />
         <img src="https://img.shields.io/badge/PHP-ff0a0a" />
-        <img src="https://img.shields.io/badge/Python-ff0a0a" />
-        <img src="https://img.shields.io/badge/Lua-ff0a0a" />
         <img src="https://img.shields.io/badge/NestJS-ff0a0a" />
         <img src="https://img.shields.io/badge/AdonisJS-ff0a0a" />
         <img src="https://img.shields.io/badge/Express-ff0a0a" />
@@ -51,6 +49,9 @@
         <img src="https://img.shields.io/badge/AWS-purple" />
         <img src="https://img.shields.io/badge/Azure-purple" />
         <img src="https://img.shields.io/badge/GCP-purple" />
+        <img src="https://img.shields.io/badge/Bash-purple" />
+        <img src="https://img.shields.io/badge/Python-purple" />
+        <img src="https://img.shields.io/badge/Lua-purple" />
         <img src="https://img.shields.io/badge/Docker-purple" />
         <img src="https://img.shields.io/badge/Terraform-purple" />
         <img src="https://img.shields.io/badge/GitHub_Actions-purple" />
