@@ -51,8 +51,9 @@
         <img src="https://img.shields.io/badge/Azure-purple" />
         <img src="https://img.shields.io/badge/GCP-purple" />
         <img src="https://img.shields.io/badge/Bash-purple" />
-        <img src="https://img.shields.io/badge/Python-purple" />
         <img src="https://img.shields.io/badge/Lua-purple" />
+        <img src="https://img.shields.io/badge/Python-purple" />
+        <img src="https://img.shields.io/badge/Perl-purple" />
         <img src="https://img.shields.io/badge/Docker-purple" />
         <img src="https://img.shields.io/badge/Terraform-purple" />
         <img src="https://img.shields.io/badge/GitHub_Actions-purple" />
