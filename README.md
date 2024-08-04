@@ -32,6 +32,7 @@
         <img src="https://img.shields.io/badge/Laravel-ff0a0a" />
         <img src="https://img.shields.io/badge/MariaDB-ff0a0a" />
         <img src="https://img.shields.io/badge/PostgreSQL-ff0a0a" />
+        <img src="https://img.shields.io/badge/MongoDB-ff0a0a" />
         <img src="https://img.shields.io/badge/SQL_Server-ff0a0a" />
         <img src="https://img.shields.io/badge/Redis-ff0a0a" />
         <img src="https://img.shields.io/badge/Kafka-ff0a0a" />
