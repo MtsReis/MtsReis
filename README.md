@@ -70,5 +70,4 @@
         
 <p align="center">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=MtsReis&theme=tokyonight-duo&hide_border=true&include_all_commits=true&line_height=27&mode=weekly">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MtsReis&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide=stars,commits&show=prs_merged_percentage&hide_title=true&line_height=27">
 </p>
