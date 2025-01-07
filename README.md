@@ -69,7 +69,5 @@
 </div>
         
 <p align="center">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=MtsReis&theme=tokyonight-duo&hide_border=true&include_all_commits=true&line_height=27&mode=weekly">
-  <br />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MtsReis&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&bg_color=00000000">
 </p>
